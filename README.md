@@ -1,4 +1,4 @@
-Hi, I’m @Musarrat06. I’m interested in creating new Python, SQL, PowerBI, and Machine Learning projects and currently learning Data Science. 
+Hi, I’m Musarrat Shaikh. I’m interested in creating new Python, SQL, PowerBI, and Machine Learning projects and currently learning Data Science. 
 I'm actively seeking collaboration opportunities and interested in working with others on exciting projects. 
 
 <!---
