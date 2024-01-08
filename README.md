@@ -1,6 +1,21 @@
-Hi, I’m Musarrat Shaikh. I’m interested in creating new Python, SQL, PowerBI, and Machine Learning projects and currently learning Data Science. 
-I'm actively seeking collaboration opportunities and interested in working with others on exciting projects. 
+![image](https://github.com/Musarrat06/Musarrat06/assets/125342615/06391ab3-25a5-4cc8-aaba-b9a1d8f29de3)
 
+
+👋 Hello, World! I'm Musarrat.
+
+🚀 Aspiring Data Analyst | Analytics Enthusiast | Visualization Wizard
+
+Welcome to my GitHub haven, where I translate raw data into meaningful insights! 👨‍💻
+
+🔍 Exploring the intersections of data and storytelling, I leverage the power of tools like Power BI and Tableau to uncover patterns, trends, and narratives hidden within the numbers.
+
+💡 Whether you're a fellow data enthusiast, a collaborator, or just curious about the world of analytics, join me on this data-driven journey. My repositories are a mix of hands-on projects, insightful analyses, and the occasional coding adventure.
+
+📊 Let's connect the dots in the data landscape and turn complexity into clarity. Explore, fork, and collaborate – together, we'll build a world where data speaks and decisions are empowered.
+
+🌐 Check out my portfolio on NovyPro for a deeper dive into my data stories!
+
+Happy coding! 🚀
 <!---
 Musarrat06/Musarrat06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
