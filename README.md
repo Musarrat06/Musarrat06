@@ -1,4 +1,4 @@
-![image](https://github.com/Musarrat06/Musarrat06/assets/125342615/06391ab3-25a5-4cc8-aaba-b9a1d8f29de3)
+![image](https://github.com/Musarrat06/Musarrat06/assets/125342615/e2492226-7808-48aa-bf77-55299f933297)
 
 
 👋 Hello, World! I'm Musarrat.
