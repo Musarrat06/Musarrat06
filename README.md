@@ -16,12 +16,10 @@
 
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
+👋 Hello, ! I'm Musarrat Shaikh.
 
-👋 Hello, World! I'm Musarrat.
-
-PYTHON | SQL | | POWER BI | MACHINE LEARNING | DATA ANALYST | TABLEAU
+Passionate Data Analyst and Aspiring Web Developer
 
 Welcome to my GitHub account, where I translate raw data into meaningful insights! 
 
