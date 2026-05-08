@@ -45,6 +45,8 @@ I enjoy exploring new technologies, improving my problem-solving skills, and cre
 # Let's Connect
 Feel free to explore my repositories, collaborate on projects, and connect with me.
 
+npx generate-snake-animation@3 --forgejo_user codeberg.org/JasterV --output snake.svg?palette=codeberg
+
 <!---
 Musarrat06/Musarrat06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
