@@ -1,3 +1,7 @@
+# Hello, I'm Musarrat Shaikh
+
+# Passionate Data Analyst | Aspiring Web Developer
+
 ## 🚀 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -16,10 +20,6 @@
 
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
-
-# Hello, I'm Musarrat Shaikh
-
-# Passionate Data Analyst | Aspiring Web Developer
 
 Welcome to my GitHub profile, where I transform raw data into meaningful insights and build projects that solve real-world problems.
 
